@@ -1,0 +1,6 @@
+joblib
+matplotlib
+numpy
+seaborn
+scikit-learn
+KDEpy
