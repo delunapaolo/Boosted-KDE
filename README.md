@@ -42,7 +42,7 @@ Weights can be accessed via the attributes:
     .normalized_weights
     .weights    
 
-The [theory notebook](notebooks/theoyr.ipynb) shows how the algorithm can give more or less weight to outliers.
+The [theory notebook](notebooks/theory.ipynb) shows how the algorithm can give more or less weight to outliers.
 
 The [tutorial notebook](notebooks/tutorial.ipynb) shows how the algorithm can be used on real world data in the context of (unsupervised) outlier / anomaly detection to improve the performance of an unsupervised one-class SVM classification model up to and over that of a (supervised) SVM classifier.
 
